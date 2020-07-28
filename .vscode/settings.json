@@ -1,0 +1,4 @@
+{
+    "editor.maxTokenizationLineLength": 200000000,
+    "http.proxyAuthorization": null
+}
