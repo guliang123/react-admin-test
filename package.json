@@ -9,7 +9,7 @@
     "antd": "^3.26.18",
     "antv": "^0.2.2",
     "autoprefixer": "7.1.6",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel": "^6.23.0",
     "babel-core": "6.26.0",
     "babel-eslint": "7.2.3",
